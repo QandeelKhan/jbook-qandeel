@@ -25,5 +25,6 @@
     "commander": "^9.2.0",
     "esbuild": "0.8.26",
     "typescript": "^4.6.3"
-  }
+  },
+  "gitHead": "8f6933f8a6d6af6736b92d8fb14634fd49e1bb03"
 }
