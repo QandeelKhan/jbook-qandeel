@@ -1,6 +1,6 @@
 {
   "name": "jsnote-qandeel",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-qandeel/local-client": "^2.0.0"
+    "@jsnote-qandeel/local-client": "^3.0.0"
   },
   "devDependencies": {
-    "@jsnote-qandeel/local-api": "^2.0.0",
+    "@jsnote-qandeel/local-api": "^3.0.0",
     "@types/node": "^17.0.25",
     "commander": "^9.2.0",
     "esbuild": "0.8.27",
