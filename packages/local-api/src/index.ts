@@ -21,7 +21,7 @@ export const serve = (
         );
     } else {
         const packagePath = require.resolve(
-            "@jsnote-qandeel/local-client/build/index.html"
+            "@jsbook-qandeel/local-client/build/index.html"
         );
         app.use(express.static(path.dirname(packagePath)));
     }
