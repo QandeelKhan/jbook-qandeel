@@ -1,6 +1,6 @@
 {
   "name": "@jsbook-qandeel/local-api",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "@jsbook-qandeel/local-client": "^4.0.0",
+    "@jsbook-qandeel/local-client": "^5.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "http-proxy-middleware": "^2.0.5"
