@@ -1,6 +1,6 @@
 {
   "name": "jsbook-qandeel",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsbook-qandeel/local-client": "^3.0.0"
+    "@jsbook-qandeel/local-client": "^4.0.0"
   },
   "devDependencies": {
-    "@jsbook-qandeel/local-api": "^3.0.0",
+    "@jsbook-qandeel/local-api": "^4.0.0",
     "@types/node": "^17.0.25",
     "commander": "^9.2.0",
     "esbuild": "0.8.26",
