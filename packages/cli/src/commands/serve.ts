@@ -1,6 +1,6 @@
 import path from "path";
 import { Command } from "commander";
-import { serve } from "@jsnote-qandeel/local-api";
+import { serve } from "@jsbook-qandeel/local-api";
 
 const isProduction = process.env.NODE_ENV === "production";
 
@@ -31,3 +31,5 @@ export const serveCommand = new Command()
             process.exit(1);
         }
     });
+
+//
